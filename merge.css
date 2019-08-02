@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 div {
     text-align: center;
 
@@ -13,4 +14,20 @@ div {
 
 .square3 {
     background-color: orange;
+=======
+body {
+    columns: 3;
+}
+
+.c1s {
+    background-color: red;
+}
+
+.c2 {
+    background-color: blue;
+}
+
+.c3 {
+    background-color: yellow;
+>>>>>>> 87861a1669c20441cb57efa7a2c1ea9ff00be2e7
 }
