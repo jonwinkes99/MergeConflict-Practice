@@ -1,0 +1,16 @@
+div {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.square1 {
+  color: green;
+}
+
+.square2 {
+  color: lightblue;
+}
+
+.square3 {
+  color: red;
+}
